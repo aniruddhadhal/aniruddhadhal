@@ -5,8 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/aniruddhadhal" target="blank"><img align="center" src="" alt="https://dev.to/aniruddhadhal" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/aniruddhadhal" target="blank"><img align="center" src="" alt="https://dev.to/aniruddhadhal" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/aniruddhadhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/aniruddhadhal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aniruddha-dhal-314610207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniruddha-dhal-314610207/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22171600/aniruddha-dhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22171600/aniruddha-dhal" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/aniruddhadhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aniruddhadhal" height="30" width="40" /></a>
@@ -23,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhadhal&show_icons=true&locale=en" alt="aniruddhadhal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhadhal&" alt="aniruddhadhal" /></p>
+
 
