@@ -3,7 +3,7 @@
 <img src="![image](https://github.com/aniruddhadhal/aniruddhadhal/assets/70450254/caf2a813-e453-4416-95ea-72bffa232c4e)" alt="img" width="400">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhadhal&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddhadhal" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aniruddhadhal&label=Profile%20views&color=0e75b6&style=flat](https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif)" alt="aniruddhadhal" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
