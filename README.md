@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Dhal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding" width="400">
+<img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="coding" width="400" aline="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhadhal&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddhadhal" /> </p>
 
