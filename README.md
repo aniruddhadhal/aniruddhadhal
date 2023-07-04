@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniruddha Dhal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="![image](https://github.com/aniruddhadhal/aniruddhadhal/assets/70450254/88bd9355-4ee0-4fd5-84bf-39ca9d675183)" alt="img" width="400">
+<img src="![image](https://github.com/aniruddhadhal/aniruddhadhal/assets/70450254/caf2a813-e453-4416-95ea-72bffa232c4e)" alt="img" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhadhal&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddhadhal" /> </p>
